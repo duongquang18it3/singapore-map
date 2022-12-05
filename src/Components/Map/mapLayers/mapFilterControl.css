@@ -1,0 +1,10 @@
+.ais-SearchBox-input {
+  width: 60vw;
+  border-radius: 20px;
+  height: 40px;
+}
+.ais-SearchBox-submit {
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+}

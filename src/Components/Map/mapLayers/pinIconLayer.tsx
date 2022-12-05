@@ -1,0 +1,68 @@
+import { IconLayer, RGBAColor } from "deck.gl";
+
+export type IconMapData = any | undefined;
+
+export const getPinIconLayer = (
+  id: string,
+  data: any[],
+  visible: boolean
+): IconLayer<any, any> => {
+  const iconAtlas = `${process.env.PUBLIC_URL}/image/marker.png`;
+
+  const getIcon = (d: any): string => "marker";
+
+  const getColor = (d: any): RGBAColor => [
+    32, 156, 238
+  ];
+
+  const iconMapping = {
+    marker: {
+      x: 0,
+      y: 0,
+      width: 512,
+      height: 512,
+      anchorY: 512,
+      mask: false,
+    },
+  };
+
+  const getPosition = (d: any): [number, number] => [
+    Number(d?.LONGTITUDE),
+    Number(d?.LATITUDE),
+  ];
+
+  const getSize = (d: any): number => 5;
+
+  return new IconLayer({
+    id: `IconLayer_${id}`,
+    data,
+
+    // alphaCutoff: 0.05,
+    // billboard: true,
+    // getAngle: 0,
+    getColor,
+    getIcon,
+    // getPixelOffset: [0, 0],
+    getPosition,
+    getSize,
+    iconAtlas,
+    iconMapping,
+    // onIconError: null,
+    // sizeMaxPixels: Number.MAX_SAFE_INTEGER,
+    // sizeMinPixels: 0,
+    sizeScale: 6,
+    // sizeUnits: 'pixels',
+
+    // autoHighlight: false,
+    // coordinateOrigin: [0, 0, 0],
+    // coordinateSystem: COORDINATE_SYSTEM.LNGLAT,
+    // highlightColor: [0, 0, 128, 128],
+    // modelMatrix: null,
+    opacity: 1,
+    pickable: true,
+    visible,
+    // wrapLongitude: false,
+
+    parameters: { depthTest: false },
+  });
+};

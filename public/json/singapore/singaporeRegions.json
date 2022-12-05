@@ -1,0 +1,22 @@
+[
+  {
+    "name": "NORTH REGION",
+    "code": "NR"
+  },
+  {
+    "name": "EAST REGION",
+    "code": "ER"
+  },
+  {
+    "name": "CENTRAL REGION",
+    "code": "CR"
+  },
+  {
+    "name": "NORTH-EAST REGION",
+    "code": "NER"
+  },
+  {
+    "name": "WEST REGION",
+    "code": "WR"
+  }
+]

@@ -1,0 +1,1330 @@
+[
+    {
+        "name": "ADMIRALTY",
+        "code": "SBSZ05"
+    },
+    {
+        "name": "AIRPORT ROAD",
+        "code": "PLSZ04"
+    },
+    {
+        "name": "ALEXANDRA HILL",
+        "code": "BMSZ07"
+    },
+    {
+        "name": "ALEXANDRA NORTH",
+        "code": "BMSZ06"
+    },
+    {
+        "name": "ALJUNIED",
+        "code": "GLSZ04"
+    },
+    {
+        "name": "ANAK BUKIT",
+        "code": "BTSZ01"
+    },
+    {
+        "name": "ANCHORVALE",
+        "code": "SESZ04"
+    },
+    {
+        "name": "ANG MO KIO TOWN CENTRE",
+        "code": "AMSZ01"
+    },
+    {
+        "name": "ANSON",
+        "code": "DTSZ10"
+    },
+    {
+        "name": "BAHAR",
+        "code": "WCSZ03"
+    },
+    {
+        "name": "BALESTIER",
+        "code": "NVSZ01"
+    },
+    {
+        "name": "BANGKIT",
+        "code": "BPSZ04"
+    },
+    {
+        "name": "BAYFRONT SUBZONE",
+        "code": "DTSZ12"
+    },
+    {
+        "name": "BAYSHORE",
+        "code": "BDSZ08"
+    },
+    {
+        "name": "BEDOK NORTH",
+        "code": "BDSZ04"
+    },
+    {
+        "name": "BEDOK RESERVOIR",
+        "code": "BDSZ02"
+    },
+    {
+        "name": "BEDOK SOUTH",
+        "code": "BDSZ06"
+    },
+    {
+        "name": "BENCOOLEN",
+        "code": "RCSZ09"
+    },
+    {
+        "name": "BENDEMEER",
+        "code": "KLSZ01"
+    },
+    {
+        "name": "BENOI SECTOR",
+        "code": "PNSZ03"
+    },
+    {
+        "name": "BIDADARI",
+        "code": "TPSZ10"
+    },
+    {
+        "name": "BISHAN EAST",
+        "code": "BSSZ03"
+    },
+    {
+        "name": "BOAT QUAY",
+        "code": "SRSZ03"
+    },
+    {
+        "name": "BOON KENG",
+        "code": "KLSZ03"
+    },
+    {
+        "name": "BOON LAY PLACE",
+        "code": "JWSZ02"
+    },
+    {
+        "name": "BOON TECK",
+        "code": "TPSZ04"
+    },
+    {
+        "name": "BOULEVARD",
+        "code": "ORSZ02"
+    },
+    {
+        "name": "BRADDELL",
+        "code": "TPSZ03"
+    },
+    {
+        "name": "BRAS BASAH",
+        "code": "MUSZ03"
+    },
+    {
+        "name": "BRICKLAND",
+        "code": "THSZ04"
+    },
+    {
+        "name": "BRICKWORKS",
+        "code": "BKSZ03"
+    },
+    {
+        "name": "BUGIS",
+        "code": "DTSZ01"
+    },
+    {
+        "name": "BUKIT BATOK CENTRAL",
+        "code": "BKSZ07"
+    },
+    {
+        "name": "BUKIT BATOK EAST",
+        "code": "BKSZ08"
+    },
+    {
+        "name": "BUKIT BATOK SOUTH",
+        "code": "BKSZ09"
+    },
+    {
+        "name": "BUKIT BATOK WEST",
+        "code": "BKSZ06"
+    },
+    {
+        "name": "BUKIT HO SWEE",
+        "code": "BMSZ09"
+    },
+    {
+        "name": "BUKIT MERAH",
+        "code": "BMSZ02"
+    },
+    {
+        "name": "CAIRNHILL",
+        "code": "NTSZ04"
+    },
+    {
+        "name": "CECIL",
+        "code": "DTSZ08"
+    },
+    {
+        "name": "CENTRAL SUBZONE",
+        "code": "DTSZ11"
+    },
+    {
+        "name": "CENTRAL WATER CATCHMENT",
+        "code": "CCSZ01"
+    },
+    {
+        "name": "CHANGI AIRPORT",
+        "code": "CHSZ03"
+    },
+    {
+        "name": "CHANGI BAY",
+        "code": "CBSZ01"
+    },
+    {
+        "name": "CHANGI POINT",
+        "code": "CHSZ01"
+    },
+    {
+        "name": "CHANGI WEST",
+        "code": "CHSZ02"
+    },
+    {
+        "name": "CHATSWORTH",
+        "code": "TNSZ02"
+    },
+    {
+        "name": "CHENG SAN",
+        "code": "AMSZ02"
+    },
+    {
+        "name": "CHIN BEE",
+        "code": "JWSZ05"
+    },
+    {
+        "name": "CHINA SQUARE",
+        "code": "OTSZ04"
+    },
+    {
+        "name": "CHINATOWN",
+        "code": "OTSZ03"
+    },
+    {
+        "name": "CHOA CHU KANG CENTRAL",
+        "code": "CKSZ03"
+    },
+    {
+        "name": "CHOA CHU KANG NORTH",
+        "code": "CKSZ05"
+    },
+    {
+        "name": "CHONG BOON",
+        "code": "AMSZ03"
+    },
+    {
+        "name": "CITY HALL",
+        "code": "DTSZ02"
+    },
+    {
+        "name": "CITY TERMINALS",
+        "code": "BMSZ17"
+    },
+    {
+        "name": "CLARKE QUAY",
+        "code": "SRSZ02"
+    },
+    {
+        "name": "CLEANTECH",
+        "code": "WCSZ02"
+    },
+    {
+        "name": "CLEMENTI CENTRAL",
+        "code": "CLSZ06"
+    },
+    {
+        "name": "CLEMENTI NORTH",
+        "code": "CLSZ04"
+    },
+    {
+        "name": "CLEMENTI WEST",
+        "code": "CLSZ08"
+    },
+    {
+        "name": "CLEMENTI WOODS",
+        "code": "CLSZ07"
+    },
+    {
+        "name": "CLIFFORD PIER",
+        "code": "DTSZ06"
+    },
+    {
+        "name": "COMMONWEALTH",
+        "code": "QTSZ03"
+    },
+    {
+        "name": "COMPASSVALE",
+        "code": "SESZ05"
+    },
+    {
+        "name": "CONEY ISLAND",
+        "code": "PGSZ07"
+    },
+    {
+        "name": "CORONATION ROAD",
+        "code": "BTSZ06"
+    },
+    {
+        "name": "CRAWFORD",
+        "code": "KLSZ09"
+    },
+    {
+        "name": "DAIRY FARM",
+        "code": "BPSZ06"
+    },
+    {
+        "name": "DEFU INDUSTRIAL PARK",
+        "code": "HGSZ09"
+    },
+    {
+        "name": "DEPOT ROAD",
+        "code": "BMSZ12"
+    },
+    {
+        "name": "DHOBY GHAUT",
+        "code": "MUSZ01"
+    },
+    {
+        "name": "DOVER",
+        "code": "QTSZ10"
+    },
+    {
+        "name": "DUNEARN",
+        "code": "NVSZ04"
+    },
+    {
+        "name": "EAST COAST",
+        "code": "MPSZ04"
+    },
+    {
+        "name": "EVERTON PARK",
+        "code": "BMSZ16"
+    },
+    {
+        "name": "FABER",
+        "code": "CLSZ03"
+    },
+    {
+        "name": "FAJAR",
+        "code": "BPSZ03"
+    },
+    {
+        "name": "FARRER COURT",
+        "code": "BTSZ08"
+    },
+    {
+        "name": "FARRER PARK",
+        "code": "RCSZ01"
+    },
+    {
+        "name": "FERNVALE",
+        "code": "SESZ06"
+    },
+    {
+        "name": "FLORA DRIVE",
+        "code": "PRSZ08"
+    },
+    {
+        "name": "FOREST HILL",
+        "code": "THSZ01"
+    },
+    {
+        "name": "FORT CANNING",
+        "code": "MUSZ02"
+    },
+    {
+        "name": "FRANKEL",
+        "code": "BDSZ05"
+    },
+    {
+        "name": "GALI BATU",
+        "code": "SKSZ03"
+    },
+    {
+        "name": "GARDEN",
+        "code": "THSZ05"
+    },
+    {
+        "name": "GEYLANG BAHRU",
+        "code": "KLSZ02"
+    },
+    {
+        "name": "GEYLANG EAST",
+        "code": "GLSZ05"
+    },
+    {
+        "name": "GHIM MOH",
+        "code": "QTSZ01"
+    },
+    {
+        "name": "GOMBAK",
+        "code": "BKSZ01"
+    },
+    {
+        "name": "GOODWOOD PARK",
+        "code": "NTSZ02"
+    },
+    {
+        "name": "GREENWOOD PARK",
+        "code": "WDSZ07"
+    },
+    {
+        "name": "GUILIN",
+        "code": "BKSZ04"
+    },
+    {
+        "name": "GUL BASIN",
+        "code": "PNSZ04"
+    },
+    {
+        "name": "GUL CIRCLE",
+        "code": "PNSZ02"
+    },
+    {
+        "name": "HENDERSON HILL",
+        "code": "BMSZ08"
+    },
+    {
+        "name": "HILLCREST",
+        "code": "BTSZ05"
+    },
+    {
+        "name": "HILLVIEW",
+        "code": "BKSZ05"
+    },
+    {
+        "name": "HOLLAND DRIVE",
+        "code": "QTSZ02"
+    },
+    {
+        "name": "HOLLAND ROAD",
+        "code": "BTSZ03"
+    },
+    {
+        "name": "HONG KAH",
+        "code": "JWSZ03"
+    },
+    {
+        "name": "HONG KAH NORTH",
+        "code": "BKSZ02"
+    },
+    {
+        "name": "HOUGANG CENTRAL",
+        "code": "HGSZ01"
+    },
+    {
+        "name": "HOUGANG EAST",
+        "code": "HGSZ03"
+    },
+    {
+        "name": "HOUGANG WEST",
+        "code": "HGSZ04"
+    },
+    {
+        "name": "INSTITUTION HILL",
+        "code": "RVSZ05"
+    },
+    {
+        "name": "INTERNATIONAL BUSINESS PARK",
+        "code": "JESZ07"
+    },
+    {
+        "name": "ISTANA NEGARA",
+        "code": "NTSZ06"
+    },
+    {
+        "name": "JELEBU",
+        "code": "BPSZ05"
+    },
+    {
+        "name": "JOO KOON",
+        "code": "PNSZ01"
+    },
+    {
+        "name": "JOO SENG",
+        "code": "TPSZ12"
+    },
+    {
+        "name": "JURONG GATEWAY",
+        "code": "JESZ06"
+    },
+    {
+        "name": "JURONG ISLAND AND BUKOM",
+        "code": "WISZ01"
+    },
+    {
+        "name": "JURONG PORT",
+        "code": "JESZ10"
+    },
+    {
+        "name": "JURONG RIVER",
+        "code": "JESZ08"
+    },
+    {
+        "name": "JURONG WEST CENTRAL",
+        "code": "JWSZ09"
+    },
+    {
+        "name": "KAKI BUKIT",
+        "code": "BDSZ01"
+    },
+    {
+        "name": "KALLANG BAHRU",
+        "code": "KLSZ08"
+    },
+    {
+        "name": "KALLANG WAY",
+        "code": "GLSZ01"
+    },
+    {
+        "name": "KAMPONG BUGIS",
+        "code": "KLSZ04"
+    },
+    {
+        "name": "KAMPONG GLAM",
+        "code": "RCSZ05"
+    },
+    {
+        "name": "KAMPONG JAVA",
+        "code": "KLSZ07"
+    },
+    {
+        "name": "KAMPONG TIONG BAHRU",
+        "code": "BMSZ11"
+    },
+    {
+        "name": "KAMPONG UBI",
+        "code": "GLSZ03"
+    },
+    {
+        "name": "KANGKAR",
+        "code": "HGSZ02"
+    },
+    {
+        "name": "KATONG",
+        "code": "MPSZ02"
+    },
+    {
+        "name": "KEAT HONG",
+        "code": "CKSZ02"
+    },
+    {
+        "name": "KEBUN BAHRU",
+        "code": "AMSZ06"
+    },
+    {
+        "name": "KEMBANGAN",
+        "code": "BDSZ03"
+    },
+    {
+        "name": "KENT RIDGE",
+        "code": "QTSZ12"
+    },
+    {
+        "name": "KHATIB",
+        "code": "YSSZ08"
+    },
+    {
+        "name": "KIAN TECK",
+        "code": "JWSZ06"
+    },
+    {
+        "name": "KIM KEAT",
+        "code": "TPSZ07"
+    },
+    {
+        "name": "KOVAN",
+        "code": "HGSZ06"
+    },
+    {
+        "name": "KRANJI",
+        "code": "SKSZ01"
+    },
+    {
+        "name": "LAKESIDE (BUSINESS)",
+        "code": "JESZ05"
+    },
+    {
+        "name": "LAKESIDE (LEISURE)",
+        "code": "JESZ04"
+    },
+    {
+        "name": "LAVENDER",
+        "code": "KLSZ06"
+    },
+    {
+        "name": "LEEDON PARK",
+        "code": "BTSZ07"
+    },
+    {
+        "name": "LEONIE HILL",
+        "code": "RVSZ03"
+    },
+    {
+        "name": "LIM CHU KANG",
+        "code": "LKSZ01"
+    },
+    {
+        "name": "LITTLE INDIA",
+        "code": "RCSZ02"
+    },
+    {
+        "name": "LIU FANG",
+        "code": "BLSZ02"
+    },
+    {
+        "name": "LORONG 8 TOA PAYOH",
+        "code": "TPSZ05"
+    },
+    {
+        "name": "LORONG AH SOO",
+        "code": "HGSZ07"
+    },
+    {
+        "name": "LORONG CHUAN",
+        "code": "SGSZ05"
+    },
+    {
+        "name": "LORONG HALUS",
+        "code": "HGSZ10"
+    },
+    {
+        "name": "LORONG HALUS NORTH",
+        "code": "SESZ01"
+    },
+    {
+        "name": "LOWER SELETAR",
+        "code": "YSSZ05"
+    },
+    {
+        "name": "LOYANG EAST",
+        "code": "PRSZ07"
+    },
+    {
+        "name": "LOYANG WEST",
+        "code": "PRSZ06"
+    },
+    {
+        "name": "MACKENZIE",
+        "code": "RCSZ06"
+    },
+    {
+        "name": "MACPHERSON",
+        "code": "GLSZ02"
+    },
+    {
+        "name": "MALCOLM",
+        "code": "NVSZ03"
+    },
+    {
+        "name": "MANDAI EAST",
+        "code": "MDSZ02"
+    },
+    {
+        "name": "MANDAI ESTATE",
+        "code": "MDSZ03"
+    },
+    {
+        "name": "MANDAI WEST",
+        "code": "MDSZ01"
+    },
+    {
+        "name": "MARGARET DRIVE",
+        "code": "QTSZ05"
+    },
+    {
+        "name": "MARINA CENTRE",
+        "code": "DTSZ03"
+    },
+    {
+        "name": "MARINA EAST",
+        "code": "MESZ01"
+    },
+    {
+        "name": "MARINA EAST (MP)",
+        "code": "MPSZ05"
+    },
+    {
+        "name": "MARINA SOUTH",
+        "code": "MSSZ01"
+    },
+    {
+        "name": "MARINE PARADE",
+        "code": "MPSZ03"
+    },
+    {
+        "name": "MARITIME SQUARE",
+        "code": "BMSZ01"
+    },
+    {
+        "name": "MARYMOUNT",
+        "code": "BSSZ02"
+    },
+    {
+        "name": "MATILDA",
+        "code": "PGSZ03"
+    },
+    {
+        "name": "MAXWELL",
+        "code": "DTSZ07"
+    },
+    {
+        "name": "MEI CHIN",
+        "code": "QTSZ06"
+    },
+    {
+        "name": "MIDVIEW",
+        "code": "WDSZ02"
+    },
+    {
+        "name": "MONK'S HILL",
+        "code": "NTSZ05"
+    },
+    {
+        "name": "MOULMEIN",
+        "code": "NVSZ02"
+    },
+    {
+        "name": "MOUNT EMILY",
+        "code": "RCSZ07"
+    },
+    {
+        "name": "MOUNT PLEASANT",
+        "code": "NVSZ05"
+    },
+    {
+        "name": "MOUNTBATTEN",
+        "code": "MPSZ01"
+    },
+    {
+        "name": "MURAI",
+        "code": "WCSZ01"
+    },
+    {
+        "name": "NASSIM",
+        "code": "TNSZ01"
+    },
+    {
+        "name": "NATIONAL UNIVERSITY OF S'PORE",
+        "code": "QTSZ11"
+    },
+    {
+        "name": "NATURE RESERVE",
+        "code": "BPSZ07"
+    },
+    {
+        "name": "NEE SOON",
+        "code": "YSSZ07"
+    },
+    {
+        "name": "NEWTON CIRCUS",
+        "code": "NTSZ03"
+    },
+    {
+        "name": "NICOLL",
+        "code": "DTSZ13"
+    },
+    {
+        "name": "NORTH COAST",
+        "code": "WDSZ09"
+    },
+    {
+        "name": "NORTH-EASTERN ISLANDS",
+        "code": "NESZ01"
+    },
+    {
+        "name": "NORTHLAND",
+        "code": "YSSZ02"
+    },
+    {
+        "name": "NORTHSHORE",
+        "code": "PGSZ01"
+    },
+    {
+        "name": "ONE NORTH",
+        "code": "QTSZ08"
+    },
+    {
+        "name": "ONE TREE HILL",
+        "code": "RVSZ01"
+    },
+    {
+        "name": "ORANGE GROVE",
+        "code": "NTSZ01"
+    },
+    {
+        "name": "OXLEY",
+        "code": "RVSZ04"
+    },
+    {
+        "name": "PANDAN",
+        "code": "CLSZ09"
+    },
+    {
+        "name": "PANG SUA",
+        "code": "SKSZ04"
+    },
+    {
+        "name": "PARK",
+        "code": "THSZ03"
+    },
+    {
+        "name": "PASIR PANJANG 1",
+        "code": "QTSZ13"
+    },
+    {
+        "name": "PASIR PANJANG 2",
+        "code": "QTSZ14"
+    },
+    {
+        "name": "PASIR RIS CENTRAL",
+        "code": "PRSZ03"
+    },
+    {
+        "name": "PASIR RIS DRIVE",
+        "code": "PRSZ05"
+    },
+    {
+        "name": "PASIR RIS PARK",
+        "code": "PRSZ04"
+    },
+    {
+        "name": "PASIR RIS WAFER FAB PARK",
+        "code": "PRSZ01"
+    },
+    {
+        "name": "PASIR RIS WEST",
+        "code": "PRSZ02"
+    },
+    {
+        "name": "PATERSON",
+        "code": "RVSZ02"
+    },
+    {
+        "name": "PAYA LEBAR EAST",
+        "code": "PLSZ02"
+    },
+    {
+        "name": "PAYA LEBAR NORTH",
+        "code": "PLSZ01"
+    },
+    {
+        "name": "PAYA LEBAR WEST",
+        "code": "PLSZ03"
+    },
+    {
+        "name": "PEARL'S HILL",
+        "code": "OTSZ01"
+    },
+    {
+        "name": "PEI CHUN",
+        "code": "TPSZ06"
+    },
+    {
+        "name": "PENG SIANG",
+        "code": "CKSZ04"
+    },
+    {
+        "name": "PENJURU CRESCENT",
+        "code": "JESZ11"
+    },
+    {
+        "name": "PEOPLE'S PARK",
+        "code": "OTSZ02"
+    },
+    {
+        "name": "PHILLIP",
+        "code": "DTSZ04"
+    },
+    {
+        "name": "PIONEER SECTOR",
+        "code": "PNSZ05"
+    },
+    {
+        "name": "PLAB",
+        "code": "PLSZ05"
+    },
+    {
+        "name": "PLANTATION",
+        "code": "THSZ06"
+    },
+    {
+        "name": "PORT",
+        "code": "QTSZ15"
+    },
+    {
+        "name": "POTONG PASIR",
+        "code": "TPSZ09"
+    },
+    {
+        "name": "PULAU PUNGGOL BARAT",
+        "code": "SLSZ02"
+    },
+    {
+        "name": "PULAU PUNGGOL TIMOR",
+        "code": "SLSZ03"
+    },
+    {
+        "name": "PULAU SELETAR",
+        "code": "SMSZ04"
+    },
+    {
+        "name": "PUNGGOL CANAL",
+        "code": "PGSZ06"
+    },
+    {
+        "name": "PUNGGOL FIELD",
+        "code": "PGSZ04"
+    },
+    {
+        "name": "PUNGGOL TOWN CENTRE",
+        "code": "PGSZ02"
+    },
+    {
+        "name": "QUEENSWAY",
+        "code": "QTSZ07"
+    },
+    {
+        "name": "RAFFLES PLACE",
+        "code": "DTSZ05"
+    },
+    {
+        "name": "REDHILL",
+        "code": "BMSZ03"
+    },
+    {
+        "name": "RESERVOIR VIEW",
+        "code": "SKSZ05"
+    },
+    {
+        "name": "RIDOUT",
+        "code": "TNSZ03"
+    },
+    {
+        "name": "RIVERVALE",
+        "code": "SESZ02"
+    },
+    {
+        "name": "ROBERTSON QUAY",
+        "code": "SRSZ01"
+    },
+    {
+        "name": "ROCHOR CANAL",
+        "code": "RCSZ04"
+    },
+    {
+        "name": "SAFTI",
+        "code": "JWSZ07"
+    },
+    {
+        "name": "SAMULUN",
+        "code": "BLSZ03"
+    },
+    {
+        "name": "SAUJANA",
+        "code": "BPSZ02"
+    },
+    {
+        "name": "SELEGIE",
+        "code": "RCSZ08"
+    },
+    {
+        "name": "SELETAR",
+        "code": "SLSZ04"
+    },
+    {
+        "name": "SELETAR AEROSPACE PARK",
+        "code": "SLSZ01"
+    },
+    {
+        "name": "SELETAR HILLS",
+        "code": "SGSZ01"
+    },
+    {
+        "name": "SEMAKAU",
+        "code": "WISZ02"
+    },
+    {
+        "name": "SEMBAWANG CENTRAL",
+        "code": "SBSZ03"
+    },
+    {
+        "name": "SEMBAWANG EAST",
+        "code": "SBSZ01"
+    },
+    {
+        "name": "SEMBAWANG HILLS",
+        "code": "AMSZ07"
+    },
+    {
+        "name": "SEMBAWANG NORTH",
+        "code": "SBSZ04"
+    },
+    {
+        "name": "SEMBAWANG SPRINGS",
+        "code": "SBSZ02"
+    },
+    {
+        "name": "SEMBAWANG STRAITS",
+        "code": "SBSZ06"
+    },
+    {
+        "name": "SENGKANG TOWN CENTRE",
+        "code": "SESZ03"
+    },
+    {
+        "name": "SENGKANG WEST",
+        "code": "SESZ07"
+    },
+    {
+        "name": "SENJA",
+        "code": "BPSZ01"
+    },
+    {
+        "name": "SENNETT",
+        "code": "TPSZ11"
+    },
+    {
+        "name": "SENOKO NORTH",
+        "code": "SBSZ08"
+    },
+    {
+        "name": "SENOKO SOUTH",
+        "code": "SBSZ09"
+    },
+    {
+        "name": "SENOKO WEST",
+        "code": "WDSZ08"
+    },
+    {
+        "name": "SENTOSA",
+        "code": "SISZ01"
+    },
+    {
+        "name": "SERANGOON CENTRAL",
+        "code": "SGSZ06"
+    },
+    {
+        "name": "SERANGOON GARDEN",
+        "code": "SGSZ04"
+    },
+    {
+        "name": "SERANGOON NORTH",
+        "code": "SGSZ03"
+    },
+    {
+        "name": "SERANGOON NORTH IND ESTATE",
+        "code": "SGSZ02"
+    },
+    {
+        "name": "SHANGRI-LA",
+        "code": "AMSZ05"
+    },
+    {
+        "name": "SHIPYARD",
+        "code": "BLSZ04"
+    },
+    {
+        "name": "SIGLAP",
+        "code": "BDSZ07"
+    },
+    {
+        "name": "SIMEI",
+        "code": "TMSZ04"
+    },
+    {
+        "name": "SIMPANG NORTH",
+        "code": "SMSZ01"
+    },
+    {
+        "name": "SIMPANG SOUTH",
+        "code": "SMSZ03"
+    },
+    {
+        "name": "SINGAPORE GENERAL HOSPITAL",
+        "code": "BMSZ05"
+    },
+    {
+        "name": "SINGAPORE POLYTECHNIC",
+        "code": "QTSZ09"
+    },
+    {
+        "name": "SOMERSET",
+        "code": "ORSZ03"
+    },
+    {
+        "name": "SOUTHERN GROUP",
+        "code": "SISZ02"
+    },
+    {
+        "name": "SPRINGLEAF",
+        "code": "YSSZ06"
+    },
+    {
+        "name": "STRAITS VIEW",
+        "code": "SVSZ01"
+    },
+    {
+        "name": "SUDONG",
+        "code": "WISZ03"
+    },
+    {
+        "name": "SUNGEI ROAD",
+        "code": "RCSZ03"
+    },
+    {
+        "name": "SUNSET WAY",
+        "code": "CLSZ02"
+    },
+    {
+        "name": "SWISS CLUB",
+        "code": "BTSZ02"
+    },
+    {
+        "name": "TAGORE",
+        "code": "AMSZ08"
+    },
+    {
+        "name": "TAI SENG",
+        "code": "HGSZ08"
+    },
+    {
+        "name": "TAMAN JURONG",
+        "code": "JWSZ04"
+    },
+    {
+        "name": "TAMPINES EAST",
+        "code": "TMSZ02"
+    },
+    {
+        "name": "TAMPINES NORTH",
+        "code": "TMSZ01"
+    },
+    {
+        "name": "TAMPINES WEST",
+        "code": "TMSZ03"
+    },
+    {
+        "name": "TANGLIN",
+        "code": "ORSZ01"
+    },
+    {
+        "name": "TANGLIN HALT",
+        "code": "QTSZ04"
+    },
+    {
+        "name": "TANJONG IRAU",
+        "code": "SMSZ02"
+    },
+    {
+        "name": "TANJONG PAGAR",
+        "code": "DTSZ09"
+    },
+    {
+        "name": "TANJONG RHU",
+        "code": "KLSZ05"
+    },
+    {
+        "name": "TEBAN GARDENS",
+        "code": "JESZ09"
+    },
+    {
+        "name": "TECK WHYE",
+        "code": "CKSZ01"
+    },
+    {
+        "name": "TELOK BLANGAH DRIVE",
+        "code": "BMSZ13"
+    },
+    {
+        "name": "TELOK BLANGAH RISE",
+        "code": "BMSZ15"
+    },
+    {
+        "name": "TELOK BLANGAH WAY",
+        "code": "BMSZ14"
+    },
+    {
+        "name": "TENGAH INDUSTRIAL ESTATE",
+        "code": "THSZ02"
+    },
+    {
+        "name": "TENGEH",
+        "code": "TSSZ01"
+    },
+    {
+        "name": "THE WHARVES",
+        "code": "SBSZ07"
+    },
+    {
+        "name": "TIONG BAHRU",
+        "code": "BMSZ10"
+    },
+    {
+        "name": "TIONG BAHRU STATION",
+        "code": "BMSZ04"
+    },
+    {
+        "name": "TOA PAYOH CENTRAL",
+        "code": "TPSZ02"
+    },
+    {
+        "name": "TOA PAYOH WEST",
+        "code": "TPSZ01"
+    },
+    {
+        "name": "TOH GUAN",
+        "code": "JESZ03"
+    },
+    {
+        "name": "TOH TUCK",
+        "code": "CLSZ01"
+    },
+    {
+        "name": "TOWNSVILLE",
+        "code": "AMSZ04"
+    },
+    {
+        "name": "TRAFALGAR",
+        "code": "HGSZ05"
+    },
+    {
+        "name": "TUAS BAY",
+        "code": "TSSZ04"
+    },
+    {
+        "name": "TUAS NORTH",
+        "code": "TSSZ03"
+    },
+    {
+        "name": "TUAS PROMENADE",
+        "code": "TSSZ02"
+    },
+    {
+        "name": "TUAS VIEW",
+        "code": "TSSZ05"
+    },
+    {
+        "name": "TUAS VIEW EXTENSION",
+        "code": "TSSZ06"
+    },
+    {
+        "name": "TUKANG",
+        "code": "BLSZ01"
+    },
+    {
+        "name": "TURF CLUB",
+        "code": "SKSZ02"
+    },
+    {
+        "name": "TYERSALL",
+        "code": "TNSZ04"
+    },
+    {
+        "name": "ULU PANDAN",
+        "code": "BTSZ04"
+    },
+    {
+        "name": "UPPER PAYA LEBAR",
+        "code": "SGSZ07"
+    },
+    {
+        "name": "UPPER THOMSON",
+        "code": "BSSZ01"
+    },
+    {
+        "name": "VICTORIA",
+        "code": "RCSZ10"
+    },
+    {
+        "name": "WATERWAY EAST",
+        "code": "PGSZ05"
+    },
+    {
+        "name": "WENYA",
+        "code": "JWSZ01"
+    },
+    {
+        "name": "WEST COAST",
+        "code": "CLSZ05"
+    },
+    {
+        "name": "WOODGROVE",
+        "code": "WDSZ05"
+    },
+    {
+        "name": "WOODLANDS EAST",
+        "code": "WDSZ03"
+    },
+    {
+        "name": "WOODLANDS REGIONAL CENTRE",
+        "code": "WDSZ01"
+    },
+    {
+        "name": "WOODLANDS SOUTH",
+        "code": "WDSZ04"
+    },
+    {
+        "name": "WOODLANDS WEST",
+        "code": "WDSZ06"
+    },
+    {
+        "name": "WOODLEIGH",
+        "code": "TPSZ08"
+    },
+    {
+        "name": "XILIN",
+        "code": "TMSZ05"
+    },
+    {
+        "name": "YEW TEE",
+        "code": "CKSZ06"
+    },
+    {
+        "name": "YIO CHU KANG",
+        "code": "AMSZ10"
+    },
+    {
+        "name": "YIO CHU KANG EAST",
+        "code": "AMSZ12"
+    },
+    {
+        "name": "YIO CHU KANG NORTH",
+        "code": "AMSZ11"
+    },
+    {
+        "name": "YIO CHU KANG WEST",
+        "code": "AMSZ09"
+    },
+    {
+        "name": "YISHUN CENTRAL",
+        "code": "YSSZ01"
+    },
+    {
+        "name": "YISHUN EAST",
+        "code": "YSSZ03"
+    },
+    {
+        "name": "YISHUN SOUTH",
+        "code": "YSSZ04"
+    },
+    {
+        "name": "YISHUN WEST",
+        "code": "YSSZ09"
+    },
+    {
+        "name": "YUHUA EAST",
+        "code": "JESZ02"
+    },
+    {
+        "name": "YUHUA WEST",
+        "code": "JESZ01"
+    },
+    {
+        "name": "YUNNAN",
+        "code": "JWSZ08"
+    }
+]

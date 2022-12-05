@@ -1,0 +1,222 @@
+[
+    {
+        "name": "SEMBAWANG",
+        "code": "SB"
+    },
+    {
+        "name": "PAYA LEBAR",
+        "code": "PL"
+    },
+    {
+        "name": "BUKIT MERAH",
+        "code": "BM"
+    },
+    {
+        "name": "GEYLANG",
+        "code": "GL"
+    },
+    {
+        "name": "BUKIT TIMAH",
+        "code": "BT"
+    },
+    {
+        "name": "SENGKANG",
+        "code": "SE"
+    },
+    {
+        "name": "ANG MO KIO",
+        "code": "AM"
+    },
+    {
+        "name": "DOWNTOWN CORE",
+        "code": "DT"
+    },
+    {
+        "name": "WESTERN WATER CATCHMENT",
+        "code": "WC"
+    },
+    {
+        "name": "NOVENA",
+        "code": "NV"
+    },
+    {
+        "name": "BUKIT PANJANG",
+        "code": "BP"
+    },
+    {
+        "name": "BEDOK",
+        "code": "BD"
+    },
+    {
+        "name": "ROCHOR",
+        "code": "RC"
+    },
+    {
+        "name": "KALLANG",
+        "code": "KL"
+    },
+    {
+        "name": "PIONEER",
+        "code": "PN"
+    },
+    {
+        "name": "TOA PAYOH",
+        "code": "TP"
+    },
+    {
+        "name": "BISHAN",
+        "code": "BS"
+    },
+    {
+        "name": "SINGAPORE RIVER",
+        "code": "SR"
+    },
+    {
+        "name": "JURONG WEST",
+        "code": "JW"
+    },
+    {
+        "name": "ORCHARD",
+        "code": "OR"
+    },
+    {
+        "name": "MUSEUM",
+        "code": "MU"
+    },
+    {
+        "name": "TENGAH",
+        "code": "TH"
+    },
+    {
+        "name": "BUKIT BATOK",
+        "code": "BK"
+    },
+    {
+        "name": "NEWTON",
+        "code": "NT"
+    },
+    {
+        "name": "CENTRAL WATER CATCHMENT",
+        "code": "CC"
+    },
+    {
+        "name": "CHANGI",
+        "code": "CH"
+    },
+    {
+        "name": "CHANGI BAY",
+        "code": "CB"
+    },
+    {
+        "name": "TANGLIN",
+        "code": "TN"
+    },
+    {
+        "name": "OUTRAM",
+        "code": "OT"
+    },
+    {
+        "name": "CHOA CHU KANG",
+        "code": "CK"
+    },
+    {
+        "name": "CLEMENTI",
+        "code": "CL"
+    },
+    {
+        "name": "QUEENSTOWN",
+        "code": "QT"
+    },
+    {
+        "name": "PUNGGOL",
+        "code": "PG"
+    },
+    {
+        "name": "HOUGANG",
+        "code": "HG"
+    },
+    {
+        "name": "MARINE PARADE",
+        "code": "MP"
+    },
+    {
+        "name": "PASIR RIS",
+        "code": "PR"
+    },
+    {
+        "name": "SUNGEI KADUT",
+        "code": "SK"
+    },
+    {
+        "name": "WOODLANDS",
+        "code": "WD"
+    },
+    {
+        "name": "RIVER VALLEY",
+        "code": "RV"
+    },
+    {
+        "name": "JURONG EAST",
+        "code": "JE"
+    },
+    {
+        "name": "WESTERN ISLANDS",
+        "code": "WI"
+    },
+    {
+        "name": "YISHUN",
+        "code": "YS"
+    },
+    {
+        "name": "LIM CHU KANG",
+        "code": "LK"
+    },
+    {
+        "name": "BOON LAY",
+        "code": "BL"
+    },
+    {
+        "name": "SERANGOON",
+        "code": "SG"
+    },
+    {
+        "name": "MANDAI",
+        "code": "MD"
+    },
+    {
+        "name": "MARINA EAST",
+        "code": "ME"
+    },
+    {
+        "name": "MARINA SOUTH",
+        "code": "MS"
+    },
+    {
+        "name": "NORTH-EASTERN ISLANDS",
+        "code": "NE"
+    },
+    {
+        "name": "SELETAR",
+        "code": "SL"
+    },
+    {
+        "name": "SIMPANG",
+        "code": "SM"
+    },
+    {
+        "name": "SOUTHERN ISLANDS",
+        "code": "SI"
+    },
+    {
+        "name": "TAMPINES",
+        "code": "TM"
+    },
+    {
+        "name": "STRAITS VIEW",
+        "code": "SV"
+    },
+    {
+        "name": "TUAS",
+        "code": "TS"
+    }
+]
