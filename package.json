@@ -2,7 +2,7 @@
   "name": "map-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://duongquang18it3.github.io/deploy-github/",
+  "homepage": "https://duongquang18it3.github.io/singapore-map/",
   "dependencies": {
     "@craco/craco": "^6.4.5",
     "@testing-library/jest-dom": "^5.11.4",
